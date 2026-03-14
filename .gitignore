@@ -1,0 +1,9 @@
+# Build output
+bin/
+obj/
+
+# Generated files (produced at runtime)
+*.db
+*.xlsx
+*.zip
+report_extracted*/
